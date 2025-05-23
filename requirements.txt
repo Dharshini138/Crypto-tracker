@@ -1,11 +1,7 @@
 streamlit>=1.26.0
-
-Keras / TensorFlow – LSTM model
-
-Plotly – interactive charts
-
-FPDF – PDF report creation
-
-CoinGecko API – real-time data
+Keras / TensorFlow 
+Plotly
+FPDF 
+CoinGecko API 
 
 
