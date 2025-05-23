@@ -1,7 +1,8 @@
-streamlit>=1.26.0
-Keras / TensorFlow 
-Plotly
-FPDF 
-CoinGecko API 
-
-
+streamlit
+pandas
+numpy
+plotly
+requests
+scikit-learn
+tensorflow
+fpdf
