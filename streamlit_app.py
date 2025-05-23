@@ -20,7 +20,7 @@ def set_bg():
         f"""
         <style>
         .stApp {{
-            background-image: url("assets/background.jpg");
+            background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F08%2F29%2F92%2F35%2F360_F_829923583_Q9qvQUSqXo0URtHNzwwFqU0H0ByKXz1Y.jpg&tbnid=dStsI9EnQbuIlM&vet=10CAgQxiAoA2oXChMIqLPfx_e4jQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcrypto%2Bbackground&docid=aPj-Izlga9zFZM&w=905&h=360&itg=1&q=crypto%20tracker%20background%20image&ved=0CAgQxiAoA2oXChMIqLPfx_e4jQMVAAAAAB0AAAAAEAc");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
