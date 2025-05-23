@@ -1,25 +1,50 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 CRYPTO TRACKER AND FORECASTING APP
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+Description :
+🪙 Crypto Tracker & Forecasting Dashboard
+A powerful and elegant Streamlit web application that tracks real-time cryptocurrency prices and forecasts the future using an LSTM deep learning model. The app also generates professional PDF reports with price charts and predictions.
 
-## Demo App
+✨ Features
+🔍 Live Crypto Price Tracking
+Fetches real-time historical price data using the CoinGecko API for major cryptocurrencies like Bitcoin, Ethereum, Dogecoin, Solana, and Cardano.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+📈 Interactive Price Charts
+Displays sleek Plotly charts with dark theme for better visual clarity and insight.
 
-## GitHub Codespaces
+🤖 LSTM Forecasting
+Uses a Long Short-Term Memory (LSTM) neural network to predict the next-day price based on selected historical data.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+📄 PDF Report Generator
+Automatically generates a downloadable PDF that includes:
 
-## Section Heading
+Predicted price
 
-This is filler text, please replace this with text for this section.
+Date/time
 
-## Further Reading
+Line chart
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+🖼️ Custom Background UI
+Beautiful background image integration for an immersive and visually engaging experience.
+
+🧮 Sidebar Controls
+Allows users to:
+
+Choose cryptocurrency
+
+Select number of historical days (30–365)
+
+ 
+🔧 Tech Stack
+Streamlit – frontend + app engine
+
+Keras / TensorFlow – LSTM model
+
+Plotly – interactive charts
+
+FPDF – PDF report creation
+
+CoinGecko API – real-time data
+
